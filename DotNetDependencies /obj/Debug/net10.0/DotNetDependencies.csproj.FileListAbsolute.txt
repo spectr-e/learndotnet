@@ -1,0 +1,16 @@
+/home/josiah/learndotnet/DotNetDependencies /bin/Debug/net10.0/DotNetDependencies
+/home/josiah/learndotnet/DotNetDependencies /bin/Debug/net10.0/DotNetDependencies.deps.json
+/home/josiah/learndotnet/DotNetDependencies /bin/Debug/net10.0/DotNetDependencies.runtimeconfig.json
+/home/josiah/learndotnet/DotNetDependencies /bin/Debug/net10.0/DotNetDependencies.dll
+/home/josiah/learndotnet/DotNetDependencies /bin/Debug/net10.0/DotNetDependencies.pdb
+/home/josiah/learndotnet/DotNetDependencies /obj/Debug/net10.0/DotNetDependencies.GeneratedMSBuildEditorConfig.editorconfig
+/home/josiah/learndotnet/DotNetDependencies /obj/Debug/net10.0/DotNetDependencies.AssemblyInfoInputs.cache
+/home/josiah/learndotnet/DotNetDependencies /obj/Debug/net10.0/DotNetDependencies.AssemblyInfo.cs
+/home/josiah/learndotnet/DotNetDependencies /obj/Debug/net10.0/DotNetDependencies.csproj.CoreCompileInputs.cache
+/home/josiah/learndotnet/DotNetDependencies /obj/Debug/net10.0/DotNetDependencies.dll
+/home/josiah/learndotnet/DotNetDependencies /obj/Debug/net10.0/refint/DotNetDependencies.dll
+/home/josiah/learndotnet/DotNetDependencies /obj/Debug/net10.0/DotNetDependencies.pdb
+/home/josiah/learndotnet/DotNetDependencies /obj/Debug/net10.0/DotNetDependencies.genruntimeconfig.cache
+/home/josiah/learndotnet/DotNetDependencies /obj/Debug/net10.0/ref/DotNetDependencies.dll
+/home/josiah/learndotnet/DotNetDependencies /obj/Debug/net10.0/DotNetDependencies.csproj.AssemblyReference.cache
+/home/josiah/learndotnet/DotNetDependencies /obj/Debug/net10.0/DotNetDe.D8D57B9E.Up2Date

@@ -1,0 +1,14 @@
+/home/josiah/learndotnet/DotNetDebugging/bin/Debug/net10.0/DotNetDebugging
+/home/josiah/learndotnet/DotNetDebugging/bin/Debug/net10.0/DotNetDebugging.deps.json
+/home/josiah/learndotnet/DotNetDebugging/bin/Debug/net10.0/DotNetDebugging.runtimeconfig.json
+/home/josiah/learndotnet/DotNetDebugging/bin/Debug/net10.0/DotNetDebugging.dll
+/home/josiah/learndotnet/DotNetDebugging/bin/Debug/net10.0/DotNetDebugging.pdb
+/home/josiah/learndotnet/DotNetDebugging/obj/Debug/net10.0/DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/home/josiah/learndotnet/DotNetDebugging/obj/Debug/net10.0/DotNetDebugging.AssemblyInfoInputs.cache
+/home/josiah/learndotnet/DotNetDebugging/obj/Debug/net10.0/DotNetDebugging.AssemblyInfo.cs
+/home/josiah/learndotnet/DotNetDebugging/obj/Debug/net10.0/DotNetDebugging.csproj.CoreCompileInputs.cache
+/home/josiah/learndotnet/DotNetDebugging/obj/Debug/net10.0/DotNetDebugging.dll
+/home/josiah/learndotnet/DotNetDebugging/obj/Debug/net10.0/refint/DotNetDebugging.dll
+/home/josiah/learndotnet/DotNetDebugging/obj/Debug/net10.0/DotNetDebugging.pdb
+/home/josiah/learndotnet/DotNetDebugging/obj/Debug/net10.0/DotNetDebugging.genruntimeconfig.cache
+/home/josiah/learndotnet/DotNetDebugging/obj/Debug/net10.0/ref/DotNetDebugging.dll
