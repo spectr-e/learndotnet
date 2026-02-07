@@ -12,3 +12,4 @@
 /home/josiah/learndotnet/DotNetDebugging/obj/Debug/net10.0/DotNetDebugging.pdb
 /home/josiah/learndotnet/DotNetDebugging/obj/Debug/net10.0/DotNetDebugging.genruntimeconfig.cache
 /home/josiah/learndotnet/DotNetDebugging/obj/Debug/net10.0/ref/DotNetDebugging.dll
+/home/josiah/learndotnet/DotNetDebugging/obj/Debug/net10.0/DotNetDebugging.sourcelink.json
