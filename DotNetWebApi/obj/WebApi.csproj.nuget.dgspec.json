@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/josiah/learndotnet/WebApi/WebApi.csproj": {}
+    "/home/josiah/learndotnet/DotNetWebApi/WebApi.csproj": {}
   },
   "projects": {
-    "/home/josiah/learndotnet/WebApi/WebApi.csproj": {
+    "/home/josiah/learndotnet/DotNetWebApi/WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/josiah/learndotnet/WebApi/WebApi.csproj",
+        "projectUniqueName": "/home/josiah/learndotnet/DotNetWebApi/WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "/home/josiah/learndotnet/WebApi/WebApi.csproj",
+        "projectPath": "/home/josiah/learndotnet/DotNetWebApi/WebApi.csproj",
         "packagesPath": "/home/josiah/.nuget/packages/",
-        "outputPath": "/home/josiah/learndotnet/WebApi/obj/",
+        "outputPath": "/home/josiah/learndotnet/DotNetWebApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/josiah/.nuget/NuGet/NuGet.Config"
