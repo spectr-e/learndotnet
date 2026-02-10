@@ -1,0 +1,14 @@
+/home/josiah/Downloads/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/bin/Debug/net10.0/Starter
+/home/josiah/Downloads/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/bin/Debug/net10.0/Starter.deps.json
+/home/josiah/Downloads/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/bin/Debug/net10.0/Starter.runtimeconfig.json
+/home/josiah/Downloads/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/bin/Debug/net10.0/Starter.dll
+/home/josiah/Downloads/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/bin/Debug/net10.0/Starter.pdb
+/home/josiah/Downloads/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/obj/Debug/net10.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/home/josiah/Downloads/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/obj/Debug/net10.0/Starter.AssemblyInfoInputs.cache
+/home/josiah/Downloads/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/obj/Debug/net10.0/Starter.AssemblyInfo.cs
+/home/josiah/Downloads/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/obj/Debug/net10.0/Starter.csproj.CoreCompileInputs.cache
+/home/josiah/Downloads/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/obj/Debug/net10.0/Starter.dll
+/home/josiah/Downloads/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/obj/Debug/net10.0/refint/Starter.dll
+/home/josiah/Downloads/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/obj/Debug/net10.0/Starter.pdb
+/home/josiah/Downloads/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/obj/Debug/net10.0/Starter.genruntimeconfig.cache
+/home/josiah/Downloads/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/obj/Debug/net10.0/ref/Starter.dll
