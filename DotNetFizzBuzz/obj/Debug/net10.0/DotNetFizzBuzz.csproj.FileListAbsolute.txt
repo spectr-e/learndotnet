@@ -1,0 +1,15 @@
+/home/josiah/Developer/learndotnet/DotNetFizzBuzz/bin/Debug/net10.0/DotNetFizzBuzz
+/home/josiah/Developer/learndotnet/DotNetFizzBuzz/bin/Debug/net10.0/DotNetFizzBuzz.deps.json
+/home/josiah/Developer/learndotnet/DotNetFizzBuzz/bin/Debug/net10.0/DotNetFizzBuzz.runtimeconfig.json
+/home/josiah/Developer/learndotnet/DotNetFizzBuzz/bin/Debug/net10.0/DotNetFizzBuzz.dll
+/home/josiah/Developer/learndotnet/DotNetFizzBuzz/bin/Debug/net10.0/DotNetFizzBuzz.pdb
+/home/josiah/Developer/learndotnet/DotNetFizzBuzz/obj/Debug/net10.0/DotNetFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/home/josiah/Developer/learndotnet/DotNetFizzBuzz/obj/Debug/net10.0/DotNetFizzBuzz.AssemblyInfoInputs.cache
+/home/josiah/Developer/learndotnet/DotNetFizzBuzz/obj/Debug/net10.0/DotNetFizzBuzz.AssemblyInfo.cs
+/home/josiah/Developer/learndotnet/DotNetFizzBuzz/obj/Debug/net10.0/DotNetFizzBuzz.csproj.CoreCompileInputs.cache
+/home/josiah/Developer/learndotnet/DotNetFizzBuzz/obj/Debug/net10.0/DotNetFizzBuzz.sourcelink.json
+/home/josiah/Developer/learndotnet/DotNetFizzBuzz/obj/Debug/net10.0/DotNetFizzBuzz.dll
+/home/josiah/Developer/learndotnet/DotNetFizzBuzz/obj/Debug/net10.0/refint/DotNetFizzBuzz.dll
+/home/josiah/Developer/learndotnet/DotNetFizzBuzz/obj/Debug/net10.0/DotNetFizzBuzz.pdb
+/home/josiah/Developer/learndotnet/DotNetFizzBuzz/obj/Debug/net10.0/DotNetFizzBuzz.genruntimeconfig.cache
+/home/josiah/Developer/learndotnet/DotNetFizzBuzz/obj/Debug/net10.0/ref/DotNetFizzBuzz.dll
