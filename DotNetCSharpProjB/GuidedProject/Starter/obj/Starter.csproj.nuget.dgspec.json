@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/josiah/Downloads/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/Starter.csproj": {}
+    "/home/josiah/Developer/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/Starter.csproj": {}
   },
   "projects": {
-    "/home/josiah/Downloads/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/Starter.csproj": {
+    "/home/josiah/Developer/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/josiah/Downloads/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/Starter.csproj",
+        "projectUniqueName": "/home/josiah/Developer/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "/home/josiah/Downloads/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/Starter.csproj",
+        "projectPath": "/home/josiah/Developer/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/Starter.csproj",
         "packagesPath": "/home/josiah/.nuget/packages/",
-        "outputPath": "/home/josiah/Downloads/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/obj/",
+        "outputPath": "/home/josiah/Developer/learndotnet/DotNetCSharpProjB/GuidedProject/Starter/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/josiah/.nuget/NuGet/NuGet.Config"
