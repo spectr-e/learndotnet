@@ -1,50 +1,36 @@
 ﻿using System;
+// Student names
+string[] studentNames = new string[] { "Sophia", "Andrew", "Emma", "Logan" };
 
 // initialize variables - graded assignments 
 int currentAssignments = 5;
-int[] sophiaScores = new int[] { 90, 86, 87, 98, 100 };
-int[] andrewScores = new int[] { 92, 89, 81, 96, 90 };
-int[] emmaScores = new int[] { 90, 85, 87, 98, 68 };
-int[] loganScores = new int[] { 90, 95, 87, 88, 96 };
+int[] sophiaScores = [90, 86, 87, 98, 100];
+int[] andrewScores = [92, 89, 81, 96, 90];
+int[] emmaScores = [90, 85, 87, 98, 68];
+int[] loganScores = [90, 95, 87, 88, 96];
 
-int sophiaSum = 0;
-int andrewSum = 0;
-int emmaSum = 0;
-int loganSum = 0;
-
-decimal sophiaScore;
-decimal andrewScore;
-decimal emmaScore;
-decimal loganScore;
-
-foreach (var score in sophiaScores)
-{
-    sophiaSum += score;
-}
-foreach (var score in andrewScores)
-{
-    andrewSum += score;
-}
-foreach (var score in emmaScores)
-{
-    emmaSum += score;
-}
-foreach (var score in loganScores)
-{
-    loganSum += score;
-}
-
-
-sophiaScore = (decimal)sophiaSum / currentAssignments;
-andrewScore = (decimal)andrewSum / currentAssignments;
-emmaScore = (decimal)emmaSum / currentAssignments;
-loganScore = (decimal)loganSum / currentAssignments;
+int[] studentScores = new int[10];
+int studentSum = 0;
+decimal studentGrade;
 
 Console.WriteLine("Student\t\tGrade\n");
-Console.WriteLine("Sophia:\t\t" + sophiaScore + "\tA-");
-Console.WriteLine("Andrew:\t\t" + andrewScore + "\tB+");
-Console.WriteLine("Emma:\t\t" + emmaScore + "\tB");
-Console.WriteLine("Logan:\t\t" + loganScore + "\tA-");
+foreach (var student in studentNames)
+{
+    if (student == "Sophia")
+        studentScores = sophiaScores;
+    else if (student == "Andrew")
+        studentScores = andrewScores;
+    else if (student == "Emma")
+        studentScores = emmaScores;
+    else if (student == "Logan")
+        studentScores = loganScores;
+    foreach (var score in studentScores)
+    {
+        studentSum += score;
+    }
+    studentGrade = (decimal)studentSum / currentAssignments;
+    Console.WriteLine($"{student}:\t\t{studentGrade}\t?");
+}
 
 Console.WriteLine("Press the Enter key to continue");
 Console.ReadLine();
