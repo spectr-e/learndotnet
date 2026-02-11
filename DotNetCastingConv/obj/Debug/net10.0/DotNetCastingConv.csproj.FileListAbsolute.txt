@@ -1,0 +1,15 @@
+/home/josiah/Developer/learndotnet/DotNetCastingConv/obj/Debug/net10.0/DotNetCastingConv.GeneratedMSBuildEditorConfig.editorconfig
+/home/josiah/Developer/learndotnet/DotNetCastingConv/obj/Debug/net10.0/DotNetCastingConv.AssemblyInfoInputs.cache
+/home/josiah/Developer/learndotnet/DotNetCastingConv/obj/Debug/net10.0/DotNetCastingConv.AssemblyInfo.cs
+/home/josiah/Developer/learndotnet/DotNetCastingConv/obj/Debug/net10.0/DotNetCastingConv.csproj.CoreCompileInputs.cache
+/home/josiah/Developer/learndotnet/DotNetCastingConv/obj/Debug/net10.0/DotNetCastingConv.sourcelink.json
+/home/josiah/Developer/learndotnet/DotNetCastingConv/bin/Debug/net10.0/DotNetCastingConv
+/home/josiah/Developer/learndotnet/DotNetCastingConv/bin/Debug/net10.0/DotNetCastingConv.deps.json
+/home/josiah/Developer/learndotnet/DotNetCastingConv/bin/Debug/net10.0/DotNetCastingConv.runtimeconfig.json
+/home/josiah/Developer/learndotnet/DotNetCastingConv/bin/Debug/net10.0/DotNetCastingConv.dll
+/home/josiah/Developer/learndotnet/DotNetCastingConv/bin/Debug/net10.0/DotNetCastingConv.pdb
+/home/josiah/Developer/learndotnet/DotNetCastingConv/obj/Debug/net10.0/DotNetCastingConv.dll
+/home/josiah/Developer/learndotnet/DotNetCastingConv/obj/Debug/net10.0/refint/DotNetCastingConv.dll
+/home/josiah/Developer/learndotnet/DotNetCastingConv/obj/Debug/net10.0/DotNetCastingConv.pdb
+/home/josiah/Developer/learndotnet/DotNetCastingConv/obj/Debug/net10.0/DotNetCastingConv.genruntimeconfig.cache
+/home/josiah/Developer/learndotnet/DotNetCastingConv/obj/Debug/net10.0/ref/DotNetCastingConv.dll
