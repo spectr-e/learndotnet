@@ -89,13 +89,12 @@
 // Console.WriteLine(output);
 
 string orderStream = "B123,C234,A345,C15,B177,G3003,C235,B179";
-
-string[] newStream = orderStream.Split(" ");
-for (var i = 0; i < newStream.Length; i++)
+string[] newStream = orderStream.Split(",");
+Array.Sort(newStream);
+foreach (var item in newStream)
 {
-    char[] orderItem = newStream[i].ToCharArray();
-    if (orderItem.Length != 5)
-    {
-        Console.WriteLine($"Error: {new string(orderItem)}");
-    }
+    if (item.Length == 4)
+        Console.WriteLine(item);
+    else
+        Console.WriteLine(item + "\t- Error");
 }
