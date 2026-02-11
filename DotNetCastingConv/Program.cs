@@ -59,19 +59,31 @@
 // Console.WriteLine($"Message: {message}");
 // Console.WriteLine($"Total: {sum}");
 
-int value1 = 11;
-decimal value2 = 6.2m;
-float value3 = 4.3f;
+// int value1 = 11;
+// decimal value2 = 6.2m;
+// float value3 = 4.3f;
 
-// Your code here to set result1
-int result1 = value1 / Convert.ToInt32(value2);
-// Hint: You need to round the result to nearest integer (don't just truncate)
-Console.WriteLine($"Divide value1 by value2, display the result as an int: {result1}");
+// // Your code here to set result1
+// int result1 = value1 / Convert.ToInt32(value2);
+// // Hint: You need to round the result to nearest integer (don't just truncate)
+// Console.WriteLine($"Divide value1 by value2, display the result as an int: {result1}");
 
-// Your code here to set result2
-decimal result2 = value2 / Convert.ToDecimal(value3);
-Console.WriteLine($"Divide value2 by value3, display the result as a decimal: {result2}");
+// // Your code here to set result2
+// decimal result2 = value2 / Convert.ToDecimal(value3);
+// Console.WriteLine($"Divide value2 by value3, display the result as a decimal: {result2}");
 
-// Your code here to set result3
-float result3 = value3 / value1;
-Console.WriteLine($"Divide value3 by value1, display the result as a float: {result3}");
+// // Your code here to set result3
+// float result3 = value3 / value1;
+// Console.WriteLine($"Divide value3 by value1, display the result as a float: {result3}");
+
+string pangram = "The quick brown fox jumps over the lazy dog";
+string[] message = pangram.Split(" ");
+string[] newMessage = new string[message.Length];
+for (var i = 0; i < message.Length; i++)
+{
+    char[] letters = message[i].ToCharArray();
+    Array.Reverse(letters);
+    newMessage[i] = new string(letters);
+}
+string output = string.Join(" ", newMessage);
+Console.WriteLine(output);
