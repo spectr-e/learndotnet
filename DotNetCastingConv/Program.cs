@@ -40,8 +40,22 @@
 // Console.WriteLine(result);
 
 // Compare casting and converting a decimal into an int
-int value = (int)1.5m; // casting truncates
-Console.WriteLine(value);
+// int value1 = (int)1.5m; // casting truncates
+// Console.WriteLine(value1);
 
-int value2 = Convert.ToInt32(1.5m); // converting rounds up
-Console.WriteLine(value2);
+// int value2 = Convert.ToInt32(1.5m); // converting rounds up
+// Console.WriteLine(value2);
+
+
+string[] values = ["12.3", "45", "ABC", "11", "DEF"];
+decimal sum = 0;
+string message = "";
+foreach (var value in values)
+{
+    if (decimal.TryParse(value, out decimal output))
+        sum += output;
+    else
+        message += value;
+}
+Console.WriteLine($"Message: {message}");
+Console.WriteLine($"Total: {sum}");
