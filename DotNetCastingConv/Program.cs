@@ -22,8 +22,13 @@
 // Console.WriteLine($"Float  : {myFloat}");
 
 // Use ToString() to convert a number to a string
-int first = 5;
-int second = 7;
-string message = first.ToString() + second.ToString();
-Console.WriteLine(message);
+// int first = 5;
+// int second = 7;
+// string message = first.ToString() + second.ToString();
+// Console.WriteLine(message);
 
+// Convert a string to an int using the Parse() helper method
+string first = "5";
+string second = "7";
+int sum = int.Parse(first) + int.Parse(second);
+Console.WriteLine(sum);

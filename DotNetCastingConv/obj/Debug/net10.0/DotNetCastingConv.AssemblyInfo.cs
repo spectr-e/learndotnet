@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotNetCastingConv")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c16185c77a31be1a348f8c32414b7398bb61e64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba96b71be6aa5707f3c1086e4259a043d1ed08f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotNetCastingConv")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotNetCastingConv")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
