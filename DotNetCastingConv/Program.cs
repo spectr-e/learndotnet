@@ -76,14 +76,26 @@
 // float result3 = value3 / value1;
 // Console.WriteLine($"Divide value3 by value1, display the result as a float: {result3}");
 
-string pangram = "The quick brown fox jumps over the lazy dog";
-string[] message = pangram.Split(" ");
-string[] newMessage = new string[message.Length];
-for (var i = 0; i < message.Length; i++)
+// string pangram = "The quick brown fox jumps over the lazy dog";
+// string[] message = pangram.Split(" ");
+// string[] newMessage = new string[message.Length];
+// for (var i = 0; i < message.Length; i++)
+// {
+//     char[] letters = message[i].ToCharArray();
+//     Array.Reverse(letters);
+//     newMessage[i] = new string(letters);
+// }
+// string output = string.Join(" ", newMessage);
+// Console.WriteLine(output);
+
+string orderStream = "B123,C234,A345,C15,B177,G3003,C235,B179";
+
+string[] newStream = orderStream.Split(" ");
+for (var i = 0; i < newStream.Length; i++)
 {
-    char[] letters = message[i].ToCharArray();
-    Array.Reverse(letters);
-    newMessage[i] = new string(letters);
+    char[] orderItem = newStream[i].ToCharArray();
+    if (orderItem.Length != 5)
+    {
+        Console.WriteLine($"Error: {new string(orderItem)}");
+    }
 }
-string output = string.Join(" ", newMessage);
-Console.WriteLine(output);
