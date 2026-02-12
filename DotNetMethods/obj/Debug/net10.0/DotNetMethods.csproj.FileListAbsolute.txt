@@ -1,0 +1,15 @@
+/home/josiah/Developer/learndotnet/DotNetMethods/bin/Debug/net10.0/DotNetMethods
+/home/josiah/Developer/learndotnet/DotNetMethods/bin/Debug/net10.0/DotNetMethods.deps.json
+/home/josiah/Developer/learndotnet/DotNetMethods/bin/Debug/net10.0/DotNetMethods.runtimeconfig.json
+/home/josiah/Developer/learndotnet/DotNetMethods/bin/Debug/net10.0/DotNetMethods.dll
+/home/josiah/Developer/learndotnet/DotNetMethods/bin/Debug/net10.0/DotNetMethods.pdb
+/home/josiah/Developer/learndotnet/DotNetMethods/obj/Debug/net10.0/DotNetMethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/josiah/Developer/learndotnet/DotNetMethods/obj/Debug/net10.0/DotNetMethods.AssemblyInfoInputs.cache
+/home/josiah/Developer/learndotnet/DotNetMethods/obj/Debug/net10.0/DotNetMethods.AssemblyInfo.cs
+/home/josiah/Developer/learndotnet/DotNetMethods/obj/Debug/net10.0/DotNetMethods.csproj.CoreCompileInputs.cache
+/home/josiah/Developer/learndotnet/DotNetMethods/obj/Debug/net10.0/DotNetMethods.sourcelink.json
+/home/josiah/Developer/learndotnet/DotNetMethods/obj/Debug/net10.0/DotNetMethods.dll
+/home/josiah/Developer/learndotnet/DotNetMethods/obj/Debug/net10.0/refint/DotNetMethods.dll
+/home/josiah/Developer/learndotnet/DotNetMethods/obj/Debug/net10.0/DotNetMethods.pdb
+/home/josiah/Developer/learndotnet/DotNetMethods/obj/Debug/net10.0/DotNetMethods.genruntimeconfig.cache
+/home/josiah/Developer/learndotnet/DotNetMethods/obj/Debug/net10.0/ref/DotNetMethods.dll
