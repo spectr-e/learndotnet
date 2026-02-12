@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotNetMethods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b59015b655c006d8208fed581b8074c0adbbfc1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+330e1ff4cc8782e60cecf110e74a0cb4d77e1078")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotNetMethods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotNetMethods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
