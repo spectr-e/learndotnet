@@ -28,7 +28,19 @@ string[] pettingZoo =
     "ostriches", "pigs", "ponies", "rabbits", "sheep", "tortoises",
 };
 
-RandomizeAnimals();
+PlanSchoolVisit("School A");
+PlanSchoolVisit("School B", 3);
+PlanSchoolVisit("School C", 2);
+
+void PlanSchoolVisit(string schoolName, int groups = 6)
+{
+    RandomizeAnimals();
+    string[,] group = AssignGroup();
+    Console.WriteLine(schoolName);
+    PrintGroup(group);
+    Console.WriteLine();
+}
+
 void RandomizeAnimals()
 {
     Random random = new Random();
@@ -41,7 +53,6 @@ void RandomizeAnimals()
     }
 }
 
-string[,] group = AssignGroup();
 string[,] AssignGroup(int groups = 6)
 {
     // six rows, three columns (six groups of 3 animals each)
@@ -56,8 +67,7 @@ string[,] AssignGroup(int groups = 6)
     }
     return result;
 }
-Console.WriteLine("School A");
-PrintGroup(group);
+
 void PrintGroup(string[,] group)
 {
     for (var i = 0; i < group.GetLength(0); i++)
@@ -65,7 +75,7 @@ void PrintGroup(string[,] group)
         Console.Write($"Group {i + 1}: ");
         for (var j = 0; j < group.GetLength(1); j++)
         {
-            Console.Write($"{group[i, j]}        ");
+            Console.Write($"-{group[i, j]}");
         }
         Console.WriteLine();
     }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotNetMethodsGuided")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+773beb7a5bf9e08abca7434822ba7ec481674c38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e65facf602e11759bdd65e8e5c985d07eb1c64ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotNetMethodsGuided")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotNetMethodsGuided")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
