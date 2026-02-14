@@ -74,7 +74,7 @@ string player = states[0];
 // Index of the current food
 int food = 0;
 
-InitializeGame();
+// InitializeGame();
 while (!shouldExit)
 {
     Move();
