@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "DcfjwLddBWQ=",
+  "dgSpecHash": "MufsNSbtNGA=",
   "success": true,
   "projectFilePath": "/home/josiah/Developer/learndotnet/DotNetWebApp/DotNetWebApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/josiah/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/10.0.1/microsoft.netcore.app.runtime.linux-x64.10.0.1.nupkg.sha512",
+    "/home/josiah/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/10.0.1/microsoft.aspnetcore.app.runtime.linux-x64.10.0.1.nupkg.sha512",
+    "/home/josiah/.nuget/packages/microsoft.netcore.app.host.linux-x64/10.0.1/microsoft.netcore.app.host.linux-x64.10.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

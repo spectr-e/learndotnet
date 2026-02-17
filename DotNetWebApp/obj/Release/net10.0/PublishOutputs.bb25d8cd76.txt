@@ -1,0 +1,7 @@
+/home/josiah/Developer/learndotnet/DotNetWebApp/publish-fd/DotNetWebApp
+/home/josiah/Developer/learndotnet/DotNetWebApp/publish-fd/appsettings.Development.json
+/home/josiah/Developer/learndotnet/DotNetWebApp/publish-fd/appsettings.json
+/home/josiah/Developer/learndotnet/DotNetWebApp/publish-fd/DotNetWebApp.dll
+/home/josiah/Developer/learndotnet/DotNetWebApp/publish-fd/DotNetWebApp.deps.json
+/home/josiah/Developer/learndotnet/DotNetWebApp/publish-fd/DotNetWebApp.runtimeconfig.json
+/home/josiah/Developer/learndotnet/DotNetWebApp/publish-fd/DotNetWebApp.pdb
