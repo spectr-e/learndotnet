@@ -72,8 +72,6 @@
 /home/josiah/Developer/learndotnet/DotNetBlazor/obj/Debug/net10.0/compressed/9zxrqpmamw-{0}-cyz5k529gx-cyz5k529gx.gz
 /home/josiah/Developer/learndotnet/DotNetBlazor/obj/Debug/net10.0/compressed/ar07au8kyp-{0}-ax6tuj8tun-ax6tuj8tun.gz
 /home/josiah/Developer/learndotnet/DotNetBlazor/obj/Debug/net10.0/compressed/82vbeu5j5w-{0}-zr4b1gdhaw-zr4b1gdhaw.gz
-/home/josiah/Developer/learndotnet/DotNetBlazor/obj/Debug/net10.0/compressed/h6u2ea02il-{0}-rezx2ntmlp-rezx2ntmlp.gz
-/home/josiah/Developer/learndotnet/DotNetBlazor/obj/Debug/net10.0/compressed/ib8e72580y-{0}-rezx2ntmlp-rezx2ntmlp.gz
 /home/josiah/Developer/learndotnet/DotNetBlazor/obj/Debug/net10.0/staticwebassets.build.json
 /home/josiah/Developer/learndotnet/DotNetBlazor/obj/Debug/net10.0/staticwebassets.build.json.cache
 /home/josiah/Developer/learndotnet/DotNetBlazor/obj/Debug/net10.0/staticwebassets.development.json
@@ -84,3 +82,5 @@
 /home/josiah/Developer/learndotnet/DotNetBlazor/obj/Debug/net10.0/DotNetBlazor.pdb
 /home/josiah/Developer/learndotnet/DotNetBlazor/obj/Debug/net10.0/DotNetBlazor.genruntimeconfig.cache
 /home/josiah/Developer/learndotnet/DotNetBlazor/obj/Debug/net10.0/ref/DotNetBlazor.dll
+/home/josiah/Developer/learndotnet/DotNetBlazor/obj/Debug/net10.0/compressed/h6u2ea02il-{0}-rezx2ntmlp-rezx2ntmlp.gz
+/home/josiah/Developer/learndotnet/DotNetBlazor/obj/Debug/net10.0/compressed/ib8e72580y-{0}-rezx2ntmlp-rezx2ntmlp.gz
