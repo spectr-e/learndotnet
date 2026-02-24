@@ -1,6 +1,6 @@
+using Microsoft.EntityFrameworkCore;
 namespace BlazingPizza.Data;
 
-using Microsoft.EntityFrameworkCore;
 
 // This class creates a database context we can use to register a database service. The context also allows us to have a controller that accesses the database.
 public class PizzaStoreContext : DbContext
