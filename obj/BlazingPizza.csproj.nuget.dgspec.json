@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/josiah/Developer/learndotnet/DotNetBlazingPizza/BlazingPizza.csproj": {}
+    "/home/josiah/Developer/learndotnet/BlazingPizza.csproj": {}
   },
   "projects": {
-    "/home/josiah/Developer/learndotnet/DotNetBlazingPizza/BlazingPizza.csproj": {
+    "/home/josiah/Developer/learndotnet/BlazingPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/josiah/Developer/learndotnet/DotNetBlazingPizza/BlazingPizza.csproj",
+        "projectUniqueName": "/home/josiah/Developer/learndotnet/BlazingPizza.csproj",
         "projectName": "BlazingPizza",
-        "projectPath": "/home/josiah/Developer/learndotnet/DotNetBlazingPizza/BlazingPizza.csproj",
+        "projectPath": "/home/josiah/Developer/learndotnet/BlazingPizza.csproj",
         "packagesPath": "/home/josiah/.nuget/packages/",
-        "outputPath": "/home/josiah/Developer/learndotnet/DotNetBlazingPizza/obj/",
+        "outputPath": "/home/josiah/Developer/learndotnet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/josiah/.nuget/NuGet/NuGet.Config"
