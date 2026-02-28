@@ -5,12 +5,19 @@
 @inject NavigationManager NavigationManager
 
 <div class="top-bar">
-    <a href="" class="logo">
+    <a class="logo" href="">
         <img src="img/logo.svg" />
     </a>
-    <a href="" class="nav-tab">
+
+    <NavLink href="" class="nav-tab" Match="NavLinkMatch.All">
         <img src="img/pizza-slice.svg" />
-    </a>
+        <div>Get Pizza</div>
+    </NavLink>
+
+    <NavLink href="myorders" class="nav-tab">
+        <img src="img/bike.svg" />
+        <div>My Orders</div>
+    </NavLink>
 </div>
 
 <div class="main">
@@ -54,6 +61,6 @@
 
         OrderState.ResetOrder();
 
-        NavigationManager.NavigateTo("/");
+        NavigationManager.NavigateTo("/myorders");
     }
 }
