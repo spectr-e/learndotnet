@@ -1,6 +1,6 @@
 @* This page looks similar to the MyOrders component. We're making a call to the OrderController, but this time we're asking for a specific order. We want the one that matches OrderId. *@
 
-@page "/myorders/{orderId}"
+@page "/myorders/{orderId:int}"
 @inject NavigationManager NavigationManager
 @inject HttpClient HttpClient
 
