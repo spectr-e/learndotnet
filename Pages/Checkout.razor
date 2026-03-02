@@ -5,25 +5,34 @@
 @inject NavigationManager NavigationManager
 
 <div class="main">
+    <EditForm Model="Order.DeliveryAddress" OnSubmit="CheckSubmission">
     <div class="checkout-cols">
         <div class="checkout-order-details">
             <h4>Review Order</h4>
-            <OrderReview Order="Order"/>
+                <OrderReview Order="Order" />
             </div>
             <div class="checkout-delivery-address">
-                <h4> Deliveer to ... </h4>
-                <AddressEditor Address="Order.DeliveryAddress"/>
-                </div>
-                </div>
-            
-    <button @onclick="PlaceOrder" disabled=@isSubmitting class="checkout-button btn btn-warning">
+                <h4> Deliver to ... </h4>
+                <AddressEditor Address="Order.DeliveryAddress" />
+            </div>
+        </div>
+
+        <button @onclick="PlaceOrder" disabled="@isSubmitting" class="checkout-button btn btn-warning">
         Place Order
     </button>
+    </EditForm>
 </div>
 
 @code {
     Order Order => OrderState.Order;
     bool isSubmitting;
+
+    private async Task CheckSubmission()
+    {
+        isSubmitting = true;
+        await PlaceOrder();
+        isSubmitting = false;
+    }
 
     async Task PlaceOrder()
     {
