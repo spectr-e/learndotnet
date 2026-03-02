@@ -3,9 +3,10 @@
 @inject OrderState OrderState
 @inject HttpClient HttpClient
 @inject NavigationManager NavigationManager
+@implements IDisposable
 
 <div class="main">
-    <EditForm Model=Order.DeliveryAddress OnValidSubmit=PlaceOrder OnInvalidSubmit=ShowError>
+    <EditForm EditContext=editContext OnValidSubmit=PlaceOrder>
         <div class="checkout-cols">
             <div class="checkout-order-details">
                 <h4>Review Order</h4>
@@ -20,7 +21,7 @@
                 <AddressEditor Address="Order.DeliveryAddress" />
             </div>
         </div>
-        <button @onclick="PlaceOrder" disabled="@isSubmitting" class="checkout-button btn btn-warning">
+        <button class="checkout-button btn btn-warning" type="Submit" disabled=@isError>
             Place Order
         </button>
         <DataAnnotationsValidator />
@@ -28,6 +29,7 @@
 </div>
 
 @code {
+    private EditContext editContext;
     bool isError = false;
 
     protected void ShowError()
@@ -35,12 +37,9 @@
         isError = true;
     }
     Order Order => OrderState.Order;
-    bool isSubmitting;
 
     async Task PlaceOrder()
     {
-        isSubmitting = true;
-        isError = false;
         var response = await HttpClient.PostAsJsonAsync(NavigationManager.BaseUri + "orders", OrderState.Order);
 
         var newOrderId = await response.Content.ReadFromJsonAsync<int>();
@@ -48,5 +47,22 @@
         OrderState.ResetOrder();
 
         NavigationManager.NavigateTo("/myorders/{newOrderId}");
+    }
+
+    private void HandleFieldChanged(object sender, FieldChangedEventArgs e)
+    {
+        isError = !editContext.Validate();
+        StateHasChanged();
+    }
+
+    public void Dispose()
+    {
+        editContext.OnFieldChanged -= HandleFieldChanged;
+    }
+
+    protected override void OnInitialized()
+    {
+        editContext = new(Order.DeliveryAddress);
+        editContext.OnFieldChanged += HandleFieldChanged;
     }
 }
