@@ -1,0 +1,7 @@
+/home/josiah/Developer/learndotnet/obj/Release/net8.0/FirstClassLibrary.csproj.AssemblyReference.cache
+/home/josiah/Developer/learndotnet/obj/Release/net8.0/rpswa.dswa.cache.json
+/home/josiah/Developer/learndotnet/obj/Release/net8.0/FirstClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/josiah/Developer/learndotnet/obj/Release/net8.0/FirstClassLibrary.AssemblyInfoInputs.cache
+/home/josiah/Developer/learndotnet/obj/Release/net8.0/FirstClassLibrary.AssemblyInfo.cs
+/home/josiah/Developer/learndotnet/obj/Release/net8.0/FirstClassLibrary.csproj.CoreCompileInputs.cache
+/home/josiah/Developer/learndotnet/obj/Release/net8.0/FirstClassLibrary.sourcelink.json
