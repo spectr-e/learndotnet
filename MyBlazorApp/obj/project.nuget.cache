@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RqNOJ1l2ElM=",
+  "success": true,
+  "projectFilePath": "/home/josiah/Developer/learndotnet/MyBlazorApp/MyBlazorApp.csproj",
+  "expectedPackageFiles": [
+    "/home/josiah/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.24/microsoft.netcore.app.host.linux-x64.8.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
