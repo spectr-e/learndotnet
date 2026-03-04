@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/josiah/Developer/learndotnet/FirstClassLibrary/FirstClassLibrary.csproj": {}
+    "/home/josiah/Developer/learndotnet/FirstClassLibrary.csproj": {}
   },
   "projects": {
-    "/home/josiah/Developer/learndotnet/FirstClassLibrary/FirstClassLibrary.csproj": {
-      "version": "1.0.0",
+    "/home/josiah/Developer/learndotnet/FirstClassLibrary.csproj": {
+      "version": "0.1.0",
       "restore": {
-        "projectUniqueName": "/home/josiah/Developer/learndotnet/FirstClassLibrary/FirstClassLibrary.csproj",
-        "projectName": "FirstClassLibrary",
-        "projectPath": "/home/josiah/Developer/learndotnet/FirstClassLibrary/FirstClassLibrary.csproj",
+        "projectUniqueName": "/home/josiah/Developer/learndotnet/FirstClassLibrary.csproj",
+        "projectName": "My.FirstClassLibrary",
+        "projectPath": "/home/josiah/Developer/learndotnet/FirstClassLibrary.csproj",
         "packagesPath": "/home/josiah/.nuget/packages/",
-        "outputPath": "/home/josiah/Developer/learndotnet/FirstClassLibrary/obj/",
+        "outputPath": "/home/josiah/Developer/learndotnet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/josiah/.nuget/NuGet/NuGet.Config"

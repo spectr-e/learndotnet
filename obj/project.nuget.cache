@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tSwbPJxyLSs=",
+  "dgSpecHash": "HUisWzJzGV8=",
   "success": true,
-  "projectFilePath": "/home/josiah/Developer/learndotnet/FirstClassLibrary/FirstClassLibrary.csproj",
+  "projectFilePath": "/home/josiah/Developer/learndotnet/FirstClassLibrary.csproj",
   "expectedPackageFiles": [
     "/home/josiah/.nuget/packages/microsoft.aspnetcore.authorization/8.0.24/microsoft.aspnetcore.authorization.8.0.24.nupkg.sha512",
     "/home/josiah/.nuget/packages/microsoft.aspnetcore.components/8.0.24/microsoft.aspnetcore.components.8.0.24.nupkg.sha512",
